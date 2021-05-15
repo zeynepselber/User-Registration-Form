@@ -14,7 +14,7 @@
 -   [Java](https://www.oracle.com/java/technologies/)  - The programing language used
 -  [Spring MVC ]
 -  [PostgreSql](https://www.postgresql.org/) - The database used
-- [CSS - Bootstrap]
+- [CSS - Bootstrap](https://getbootstrap.com/)
 
 ## Authors
  - **Zeynep SELBER**  - zeynep.selber@gmail.com
